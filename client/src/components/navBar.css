@@ -1,0 +1,52 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+nav a {
+    font-family: 'Bangers', cursive;
+    font-size: xx-large;
+}
+
+header nav a {
+    padding: 30px
+}
+
+header nav {
+    padding: 30px;
+}
+
+header {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#homePageNavBarButton {
+    width: 250px;
+}
+
+#logo {
+    min-width: 200px;
+}
+
+#mikey-quote {
+    width: 700px;
+    font-family: 'McLaren', cursive;
+    font-size: x-large;
+
+}
+
+#login:hover{
+    border-bottom: 5px;
+    border-bottom-style: solid;
+    border-color: red;
+}
+#signup:hover{
+    border-bottom: 5px;
+    border-bottom-style: solid;
+    border-color: red;
+}

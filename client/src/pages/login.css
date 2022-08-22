@@ -1,0 +1,28 @@
+#login-form {
+    background: white;
+	position: absolute;
+	margin-top: 20px;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    font-family: 'McLaren', cursive;
+}
+
+#order-form-login {
+	background: white;
+	position: absolute;
+	margin-top: 20px;
+	display: flex;
+	justify-content: space-around; 
+    justify-content: center;
+	width: 500px;
+	height: 560px;
+	border: solid;
+	border-color: black;
+	border-radius: 20px;
+}
+
+h2 {
+    font-family: 'Bangers', cursive;
+	font-size: xxx-large;
+}

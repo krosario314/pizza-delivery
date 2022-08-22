@@ -1,0 +1,62 @@
+#footer {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: purple;
+    color: white;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+#footer a {
+    color: white;
+}
+#footer a:hover{
+    color: white;
+}
+
+#footer img {
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+#icons {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+}
+
+#footer p {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'McLaren', cursive;
+}
+
+
+/* #leo:hover{
+    border-bottom: 5px;
+    border-bottom-style: solid;
+    border-color: white;
+}
+
+#mike:hover{
+    border-bottom: 5px;
+    border-bottom-style: solid;
+    border-color: white;
+}
+
+#don:hover{
+    border-bottom: 5px;
+    border-bottom-style: solid;
+    border-color: white;
+}
+
+#raph:hover{
+    border-bottom: 5px;
+    border-bottom-style: solid;
+    border-color: white;
+} */

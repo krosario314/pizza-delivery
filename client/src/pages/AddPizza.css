@@ -1,0 +1,122 @@
+#add-pizza-form {
+	background: whitesmoke;
+	position: absolute;
+	margin-top: 20px;
+	width: 500px;
+	height: 520px;
+	border: 20px solid black;
+	border-color: black;
+	border-radius: 40px;
+	text-align: center;
+}
+
+
+h1 {
+    font-family: 'Bangers', cursive;
+	font-size: xxx-large;
+	
+}
+
+
+#order-cards {
+	position: absolute;
+	margin-top: 35px;
+	display: flex;
+	justify-content: space-between;
+	font-family: 'McLaren', cursive;
+}
+
+#order-cards h2 {
+	font-family: 'Bangers', cursive;
+	font-size: xxx-large;
+}
+#pizza-div-order {
+    background: url("../../public/pizzabanner.webp");
+    width: 100%;
+    min-height: 600px;
+	display: flex;
+	justify-content: center;
+}
+
+#pizza-div img {
+	padding-top: 20px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+#size {
+	background: url("../../public/leo-bubble.png");
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 550px;
+	width: 300px;
+	text-align: center;
+	font-size: larger;
+}
+
+#crust {
+	background: url("../../public/mike-bubble.png");
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 550px;
+	width: 300px;
+	text-align: center;
+	font-size: larger;
+}
+
+#meats {
+	background: url("../../public/don-bubble.png");
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 550px;
+	width: 300px;
+	text-align: center;
+	font-size: larger;
+}
+
+#veggies {
+	background: url("../../public/raph-bubble.png");
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 550px;
+	width: 300px;
+	text-align: center;
+	font-size: larger;
+}
+
+#add-pizza {
+	margin: auto;
+	color: white;
+	background-color: red;
+	font-family: 'Bangers', cursive;
+	font-size: xxx-large;
+	border-radius: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+/* #order-button {
+	display: flex;
+	justify-content: center;
+} */
+
+@keyframes float {
+	0% {
+		
+		transform: translatey(0px);
+	}
+	50% {
+		
+		transform: translatey(-20px);
+	}
+	100% {
+		
+		transform: translatey(0px);
+	}
+}
